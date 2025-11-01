@@ -9,17 +9,14 @@
 
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://www.linkedin.com/in/grace-rodríguez" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=for-the-badge" alt="linkedin"></a>
-<a href="mailto:vanessa.grace1909@gmail.com"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=gmail&style=for-the-badge" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/grace-rodríguez" target="_blank"><img src="https://img.shields.io/badge/-Grace_Rodríguez-blue?logo=linkedin&style=for-the-badge" alt="linkedin"></a>
+<a href="mailto:vanessa.grace1909@gmail.com"><img src="https://img.shields.io/badge/-vanessa.grace1909@gmail.com-white?logo=gmail&style=for-the-badge" alt="gmail"/></a>
 <br/><br/>
 
 <h1 align="left">Sobre mí</h1>
 
 <p align="justify">Estudiante de último semestre de Ingeniería en Sistemas con conocimientos en el desarrollo front-end y mantenimiento de equipos de cómputo. Poseo un perfil versátil, con habilidades en tecnologías web como React, HTML y CSS, y una base en sistemas operativos y hardware. Busco aplicar mis conocimientos y contribuir al éxito de proyectos, con el objetivo de crecer profesional y personalmente en un entorno dinámico y desafiante.</p>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 <h1 align="left">🧠 Habilidades</h1>
 

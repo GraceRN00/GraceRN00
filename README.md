@@ -4,8 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=#1571B3&center=true&vCenter=true&width=435&lines=Soy+estudiante+de+Ing.+de+sistemas.+✨" alt="Typing SVG">
 </p>
+
+<div align="center">
+<h3>Contact Me :handshake:</h3>
+<a href="https://www.linkedin.com/in/grace-rodríguez" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="mailto:vanessa.grace1909@gmail.com"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="gmail"/></a>
+<br/><br/>
 
 <h1 align="left">Sobre mí</h1>
 
@@ -73,23 +79,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
 
-![Not a brag, just the truth](https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/giphy.webp)
+[![](https://github-readme-stats.vercel.app/api?username=GraceRN00&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GraceRN00)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=GraceRN00o&theme=tokyonight&hide_border=true)](https://github.com/GraceRN00)
 
 </div>
-
-<h1 align="left">🔥 Some Statistics</h1>
-<div align="center">
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/khot-aditya/Khot-Aditya/blob/main/devcard.svg" alt="Dev Card" width="100%" height="auto"/></td>
-    <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="100%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=khot-aditya&theme=swift&card_width=400" width="100%"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=khot-aditya&row=2&column=4&theme=oldie&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
-    </td>
-  </tr>
-</table>
 </div>
 
 <div align="center">

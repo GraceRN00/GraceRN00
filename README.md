@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=#1571B3&center=true&vCenter=true&width=435&lines=Soy+estudiante+de+Ing.+de+Sistemas." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=#1571B3&center=true&vCenter=true&width=435&lines=Soy+estudiante+de+Ing+de+Sistemas." alt="Typing SVG">
 </p>
 
 <div align="center">
-<h3>Contact Me :handshake:</h3>
+<h3>Contacto :handshake:</h3>
 <a href="https://www.linkedin.com/in/grace-rodríguez" target="_blank"><img src="https://img.shields.io/badge/-Grace_Rodríguez-blue?logo=linkedin&style=for-the-badge" alt="linkedin"></a>
 <a href="mailto:vanessa.grace1909@gmail.com"><img src="https://img.shields.io/badge/-vanessa.grace1909@gmail.com-white?logo=gmail&style=for-the-badge" alt="gmail"/></a>
 <br/><br/>
@@ -47,7 +47,7 @@
 
 
 <div align="center">
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<h2 style="margin: 5px 10px;">GitHub Estadísticas :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-stats.vercel.app/api?username=GraceRN00&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GraceRN00)
